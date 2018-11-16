@@ -5,3 +5,5 @@ kkkkkk kkkkk
 git cmd 
 
 888888
+
+git add
